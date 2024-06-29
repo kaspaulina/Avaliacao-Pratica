@@ -8,7 +8,10 @@
 - scikit-learn
 - tensorflow (pré-requisito para a biblioteca keras)
 - keras
+- nltk
 
 <p> Para instalar as bibliotecas, basta rodar no terminal "pip install nome_da_biblioteca"
+
+<p> obs: Por favor, adicionar mnist_train.csv na pasta MNIST para o código rodar, pois o GitHub não permitiu subir o arquivo por causa do tamanho.
 
 ### Autoria: Paulina Kayse de Andrade Santos
